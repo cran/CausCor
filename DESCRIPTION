@@ -1,6 +1,6 @@
 Package: CausCor
 Title: Calculate Correlations and Estimate Causality
-Version: 0.1.1
+Version: 0.1.2
 Authors@R: 
     person("Tomomi", "Sugiyama", email = "sugiyama.t.am@m.titech.ac.jp", role = c("aut", "cre"))
 Description: This tool performs pairwise correlation analysis and estimate causality.
@@ -14,8 +14,8 @@ Imports: cowplot, dplyr, ggplot2, grDevices, magrittr, stats, WriteXLS
 Suggests: testthat (>= 3.0.0)
 Config/testthat/edition: 3
 NeedsCompilation: no
-Packaged: 2022-05-12 02:22:05 UTC; sugiyamatomomi
+Packaged: 2022-05-24 05:53:57 UTC; sugiyamatomomi
 Author: Tomomi Sugiyama [aut, cre]
 Maintainer: Tomomi Sugiyama <sugiyama.t.am@m.titech.ac.jp>
 Repository: CRAN
-Date/Publication: 2022-05-13 05:40:05 UTC
+Date/Publication: 2022-05-24 06:10:02 UTC
